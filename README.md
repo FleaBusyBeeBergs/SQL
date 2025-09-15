@@ -1,2 +1,2 @@
 # SQL
-sql practice projects
+sql practice projects for skill development
